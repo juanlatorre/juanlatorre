@@ -29,8 +29,6 @@ I’m Juan, a 0.1x engineer, front end & mobile developer, father of one, ~~prou
 ![](https://img.shields.io/badge/Code-MongoDB-informational?style=flat&logo=MongoDB&logoColor=white&color=B33771)
 ![](https://img.shields.io/badge/Code-MySQL-informational?style=flat&logo=MySQL&logoColor=white&color=B33771)
 
-<details>
-<summary>More Skills</summary>
 <br>
 
 ![](https://img.shields.io/badge/Style-CSS-informational?style=flat&logo=css3&logoColor=white&color=B33771)
@@ -52,7 +50,5 @@ I’m Juan, a 0.1x engineer, front end & mobile developer, father of one, ~~prou
 ![](https://img.shields.io/badge/Tools-GitHub-informational?style=flat&logo=GitHub&logoColor=white&color=B33771)
 ![](https://img.shields.io/badge/Tools-GitKraken-informational?style=flat&logo=gitkraken&logoColor=white&color=B33771)
 ![](https://img.shields.io/badge/Tools-GitLab-informational?style=flat&logo=GitLab&logoColor=white&color=B33771)
-
-</details>
 
 <br>
