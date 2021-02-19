@@ -35,8 +35,8 @@ I’m Juan, a 0.1x engineer, front end & mobile developer, father of one, ~~prou
 
 ![](https://img.shields.io/badge/Style-CSS-informational?style=flat&logo=css3&logoColor=white&color=B33771)
 ![](https://img.shields.io/badge/Style-Tailwind-informational?style=flat&logo=Tailwind-CSS&logoColor=white&color=B33771)
-![](https://img.shields.io/badge/Code-Chakra_UI-informational?style=flat&logo=chakra-ui&logoColor=white&color=B33771)
-![](https://img.shields.io/badge/Code-Styled_Components-informational?style=flat&logo=styled-components&logoColor=white&color=B33771)
+![](https://img.shields.io/badge/Style-Chakra_UI-informational?style=flat&logo=chakra-ui&logoColor=white&color=B33771)
+![](https://img.shields.io/badge/Style-Styled_Components-informational?style=flat&logo=styled-components&logoColor=white&color=B33771)
 ![](https://img.shields.io/badge/Style-Sass-informational?style=flat&logo=Sass&logoColor=white&color=B33771)
 <br>
 
@@ -50,7 +50,7 @@ I’m Juan, a 0.1x engineer, front end & mobile developer, father of one, ~~prou
 ![](https://img.shields.io/badge/Tools-Figma-informational?style=flat&logo=Figma&logoColor=white&color=B33771)
 ![](https://img.shields.io/badge/Tools-Notion-informational?style=flat&logo=Notion&logoColor=white&color=B33771)
 ![](https://img.shields.io/badge/Tools-GitHub-informational?style=flat&logo=GitHub&logoColor=white&color=B33771)
-![](https://img.shields.io/badge/Code-GitKraken-informational?style=flat&logo=gitkraken&logoColor=white&color=B33771)
+![](https://img.shields.io/badge/Tools-GitKraken-informational?style=flat&logo=gitkraken&logoColor=white&color=B33771)
 ![](https://img.shields.io/badge/Tools-GitLab-informational?style=flat&logo=GitLab&logoColor=white&color=B33771)
 
 </details>
