@@ -53,5 +53,5 @@ I’m Juan, a 0.1x engineer, front end & mobile developer, father of one, macOS 
 ![](https://img.shields.io/badge/Tools-GitHub-informational?style=flat&logo=GitHub&logoColor=white&color=B33771)
 ![](https://img.shields.io/badge/Tools-Bitbucket-informational?style=flat&logo=Bitbucket&logoColor=white&color=B33771)
 ![](https://img.shields.io/badge/Tools-GitLab-informational?style=flat&logo=GitLab&logoColor=white&color=B33771)
-![](https://img.shields.io/badge/Tools-GitKraken-informational?style=flat&logo=gitkraken&logoColor=white&color=B33771
+![](https://img.shields.io/badge/Tools-GitKraken-informational?style=flat&logo=gitkraken&logoColor=white&color=B33771)
 <br>
