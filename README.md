@@ -6,7 +6,7 @@
 
 Hi 👋
 
-I’m Juan, a 0.1x engineer, front end & mobile developer, father of one, ~~proud~~ Microshaft Winblows user, I love Captain Black Vanilla tobacco and I drink a lot of cappuccino.
+I’m Juan, a 0.1x engineer, front end & mobile developer, father of one, macOS user, I love Captain Black Vanilla tobacco and I drink a lot of cappuccino.
 
 ## &#x1f4c8; GitHub Stats
 
@@ -26,7 +26,9 @@ I’m Juan, a 0.1x engineer, front end & mobile developer, father of one, ~~prou
 ![](https://img.shields.io/badge/Code-TypeScript-informational?style=flat&logo=TypeScript&logoColor=white&color=B33771)
 ![](https://img.shields.io/badge/Code-Dart-informational?style=flat&logo=Dart&logoColor=white&color=B33771)
 ![](https://img.shields.io/badge/Code-Flutter-informational?style=flat&logo=Flutter&logoColor=white&color=B33771)
+![](https://img.shields.io/badge/Code-GraphQL-informational?style=flat&logo=GraphQL&logoColor=white&color=B33771)
 ![](https://img.shields.io/badge/Code-MongoDB-informational?style=flat&logo=MongoDB&logoColor=white&color=B33771)
+![](https://img.shields.io/badge/Code-PostgresQL-informational?style=flat&logo=PostgresQL&logoColor=white&color=B33771)
 ![](https://img.shields.io/badge/Code-MySQL-informational?style=flat&logo=MySQL&logoColor=white&color=B33771)
 
 <br>
@@ -42,13 +44,16 @@ I’m Juan, a 0.1x engineer, front end & mobile developer, father of one, ~~prou
 ![](https://img.shields.io/badge/Tools-Vercel-informational?style=flat&logo=vercel&logoColor=white&color=B33771)
 ![](https://img.shields.io/badge/Tools-Actions-informational?style=flat&logo=github-actions&logoColor=white&color=B33771)
 ![](https://img.shields.io/badge/Tools-NPM-informational?style=flat&logo=npm&logoColor=white&color=B33771)
+![](https://img.shields.io/badge/Tools-PNPM-informational?style=flat&logo=pnpm&logoColor=white&color=B33771)
 ![](https://img.shields.io/badge/Tools-Yarn-informational?style=flat&logo=yarn&logoColor=white&color=B33771)
 ![](https://img.shields.io/badge/Tools-Photoshop-informational?style=flat&logo=Adobe-Photoshop&logoColor=white&color=B33771)
 ![](https://img.shields.io/badge/Tools-Illustrator-informational?style=flat&logo=Adobe-Illustrator&logoColor=white&color=B33771)
 ![](https://img.shields.io/badge/Tools-Figma-informational?style=flat&logo=Figma&logoColor=white&color=B33771)
 ![](https://img.shields.io/badge/Tools-Notion-informational?style=flat&logo=Notion&logoColor=white&color=B33771)
+![](https://img.shields.io/badge/Tools-Jira-informational?style=flat&logo=Jira&logoColor=white&color=B33771)
 ![](https://img.shields.io/badge/Tools-GitHub-informational?style=flat&logo=GitHub&logoColor=white&color=B33771)
-![](https://img.shields.io/badge/Tools-GitKraken-informational?style=flat&logo=gitkraken&logoColor=white&color=B33771)
+![](https://img.shields.io/badge/Tools-Bitbucket-informational?style=flat&logo=Bitbucket&logoColor=white&color=B33771)
 ![](https://img.shields.io/badge/Tools-GitLab-informational?style=flat&logo=GitLab&logoColor=white&color=B33771)
+![](https://img.shields.io/badge/Tools-GitKraken-informational?style=flat&logo=gitkraken&logoColor=white&color=B33771)
 
 <br>
