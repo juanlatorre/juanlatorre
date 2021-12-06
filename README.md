@@ -3,4 +3,4 @@
 
 Hi 👋
 
-I’m Juan, a Full Stack TypeScript & Mobile developer currently working at [Tactech](https://tactech.cl), father of one, macOS user, I'm back to smoking and I drink a lot of espressos
+I’m Juan, a Full Stack TypeScript & Mobile developer currently working at [Tactech](https://tactech.cl) and [Sinantica](https://sinantica.cl), father of one, macOS user, I'm back to smoking and I drink a lot of espressos
