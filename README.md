@@ -1,5 +1,3 @@
-[![Juan Latorre's GitHub Banner](./assets/github_header.png)](https://juanlatorre.cl)
-
 [![Twitter Badge](https://img.shields.io/badge/Twitter-Profile-informational?style=flat&logo=twitter&logoColor=white&color=B33771)](https://twitter.com/unnamed_query)
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=B33771)](https://www.linkedin.com/in/juanfranciscolatorre/)
 
