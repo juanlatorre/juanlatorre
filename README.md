@@ -3,8 +3,6 @@
 
 - 🔭 I’m currently working at [Tactech](https://tactech.cl)
 
-- 🌱 I’m currently learning **Micro-Frontend and Golang**
-
 - 🇨🇱 Born and Raised in **Chile**
 
 - 📫 How to reach me **juanlatorreharcha@gmail.com**
