@@ -163,3 +163,10 @@ Twitter: [@unnamed_query](https://twitter.com/unnamed_query)
   </tr>
 </table>
 <!--END_SECTION:top-followers-->
+
+---
+
+### :bar_chart: [Coding time in the last month](https://github.com/muety/wakapi)
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
