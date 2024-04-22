@@ -169,4 +169,9 @@ Twitter: [@unnamed_query](https://twitter.com/unnamed_query)
 ### :bar_chart: [Coding time in the last month](https://github.com/muety/wakapi)
 
 <!--START_SECTION:waka-->
+
+```txt
+No activity tracked
+```
+
 <!--END_SECTION:waka-->
