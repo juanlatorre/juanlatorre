@@ -17,6 +17,13 @@ Twitter: [@unnamed_query](https://twitter.com/unnamed_query)
       <a href="https://github.com/alantoa">Alan Toa</a>
     </td>
     <td align="center">
+      <a href="https://github.com/wittyBoffin">
+        <img src="https://avatars2.githubusercontent.com/u/99595213" width="100px;" alt="wittyBoffin"/>
+      </a>
+      <br />
+      <a href="https://github.com/wittyBoffin">Boffin</a>
+    </td>
+    <td align="center">
       <a href="https://github.com/saihaj">
         <img src="https://avatars2.githubusercontent.com/u/44710980" width="100px;" alt="saihaj"/>
       </a>
@@ -51,6 +58,8 @@ Twitter: [@unnamed_query](https://twitter.com/unnamed_query)
       <br />
       <a href="https://github.com/narbs91">Narb</a>
     </td>
+  </tr>
+  <tr>
     <td align="center">
       <a href="https://github.com/ehopperdietzel">
         <img src="https://avatars2.githubusercontent.com/u/14140144" width="100px;" alt="ehopperdietzel"/>
@@ -58,8 +67,6 @@ Twitter: [@unnamed_query](https://twitter.com/unnamed_query)
       <br />
       <a href="https://github.com/ehopperdietzel">Eduardo Hopperdietzel</a>
     </td>
-  </tr>
-  <tr>
     <td align="center">
       <a href="https://github.com/kezada94">
         <img src="https://avatars2.githubusercontent.com/u/26941781" width="100px;" alt="kezada94"/>
@@ -102,6 +109,8 @@ Twitter: [@unnamed_query](https://twitter.com/unnamed_query)
       <br />
       <a href="https://github.com/recmera">Ricardo Coronado Mera</a>
     </td>
+  </tr>
+  <tr>
     <td align="center">
       <a href="https://github.com/themakunga">
         <img src="https://avatars2.githubusercontent.com/u/235083" width="100px;" alt="themakunga"/>
@@ -109,8 +118,6 @@ Twitter: [@unnamed_query](https://twitter.com/unnamed_query)
       <br />
       <a href="https://github.com/themakunga">Nicolas Martinez</a>
     </td>
-  </tr>
-  <tr>
     <td align="center">
       <a href="https://github.com/bartcheers">
         <img src="https://avatars2.githubusercontent.com/u/27741582" width="100px;" alt="bartcheers"/>
@@ -152,13 +159,6 @@ Twitter: [@unnamed_query](https://twitter.com/unnamed_query)
       </a>
       <br />
       <a href="https://github.com/nowisf">NowisFurther</a>
-    </td>
-    <td align="center">
-      <a href="https://github.com/nicolasmay">
-        <img src="https://avatars2.githubusercontent.com/u/64341232" width="100px;" alt="nicolasmay"/>
-      </a>
-      <br />
-      <a href="https://github.com/nicolasmay">Nicolás González Mayorga</a>
     </td>
   </tr>
 </table>
