@@ -154,11 +154,11 @@ Twitter: [@unnamed_query](https://twitter.com/unnamed_query)
       <a href="https://github.com/DiegoVeraSarricolea">Diego Vera Sarricolea</a>
     </td>
     <td align="center">
-      <a href="https://github.com/nowisf">
-        <img src="https://avatars2.githubusercontent.com/u/35854533" width="100px;" alt="nowisf"/>
+      <a href="https://github.com/nicolasmay">
+        <img src="https://avatars2.githubusercontent.com/u/64341232" width="100px;" alt="nicolasmay"/>
       </a>
       <br />
-      <a href="https://github.com/nowisf">NowisFurther</a>
+      <a href="https://github.com/nicolasmay">Nicolás González Mayorga</a>
     </td>
   </tr>
 </table>
