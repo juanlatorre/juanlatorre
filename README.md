@@ -45,12 +45,21 @@ Twitter: [@unnamed_query](https://twitter.com/unnamed_query)
       <a href="https://github.com/gigamesh">Matt Masurka</a>
     </td>
     <td align="center">
+      <a href="https://github.com/ivmirx">
+        <img src="https://avatars2.githubusercontent.com/u/10554114" width="100px;" alt="ivmirx"/>
+      </a>
+      <br />
+      <a href="https://github.com/ivmirx">Ivan Mir</a>
+    </td>
+    <td align="center">
       <a href="https://github.com/adgellida">
         <img src="https://avatars2.githubusercontent.com/u/1489725" width="100px;" alt="adgellida"/>
       </a>
       <br />
       <a href="https://github.com/adgellida">Antonio David Gellida Lavara</a>
     </td>
+  </tr>
+  <tr>
     <td align="center">
       <a href="https://github.com/narbs91">
         <img src="https://avatars2.githubusercontent.com/u/29411347" width="100px;" alt="narbs91"/>
@@ -58,8 +67,6 @@ Twitter: [@unnamed_query](https://twitter.com/unnamed_query)
       <br />
       <a href="https://github.com/narbs91">Narb</a>
     </td>
-  </tr>
-  <tr>
     <td align="center">
       <a href="https://github.com/ehopperdietzel">
         <img src="https://avatars2.githubusercontent.com/u/14140144" width="100px;" alt="ehopperdietzel"/>
@@ -102,6 +109,8 @@ Twitter: [@unnamed_query](https://twitter.com/unnamed_query)
       <br />
       <a href="https://github.com/simaiden">Simón Sepúlveda Osses</a>
     </td>
+  </tr>
+  <tr>
     <td align="center">
       <a href="https://github.com/recmera">
         <img src="https://avatars2.githubusercontent.com/u/23617398" width="100px;" alt="recmera"/>
@@ -109,8 +118,6 @@ Twitter: [@unnamed_query](https://twitter.com/unnamed_query)
       <br />
       <a href="https://github.com/recmera">Ricardo Coronado Mera</a>
     </td>
-  </tr>
-  <tr>
     <td align="center">
       <a href="https://github.com/themakunga">
         <img src="https://avatars2.githubusercontent.com/u/235083" width="100px;" alt="themakunga"/>
@@ -152,13 +159,6 @@ Twitter: [@unnamed_query](https://twitter.com/unnamed_query)
       </a>
       <br />
       <a href="https://github.com/DiegoVeraSarricolea">Diego Vera Sarricolea</a>
-    </td>
-    <td align="center">
-      <a href="https://github.com/nicolasmay">
-        <img src="https://avatars2.githubusercontent.com/u/64341232" width="100px;" alt="nicolasmay"/>
-      </a>
-      <br />
-      <a href="https://github.com/nicolasmay">Nicolás González Mayorga</a>
     </td>
   </tr>
 </table>
