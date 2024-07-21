@@ -89,18 +89,18 @@ Twitter: [@unnamed_query](https://twitter.com/unnamed_query)
       <a href="https://github.com/sandov">Diego Sandoval</a>
     </td>
     <td align="center">
-      <a href="https://github.com/moraesc">
-        <img src="https://avatars2.githubusercontent.com/u/21322192" width="100px;" alt="moraesc"/>
-      </a>
-      <br />
-      <a href="https://github.com/moraesc">Camilla Moraes</a>
-    </td>
-    <td align="center">
       <a href="https://github.com/antilef">
         <img src="https://avatars2.githubusercontent.com/u/28636087" width="100px;" alt="antilef"/>
       </a>
       <br />
       <a href="https://github.com/antilef">Francisco Antilef</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/moraesc">
+        <img src="https://avatars2.githubusercontent.com/u/21322192" width="100px;" alt="moraesc"/>
+      </a>
+      <br />
+      <a href="https://github.com/moraesc">Camilla Moraes</a>
     </td>
     <td align="center">
       <a href="https://github.com/simaiden">
@@ -147,18 +147,18 @@ Twitter: [@unnamed_query](https://twitter.com/unnamed_query)
       <a href="https://github.com/clunkylion">José Cortés </a>
     </td>
     <td align="center">
-      <a href="https://github.com/maximilianoide">
-        <img src="https://avatars2.githubusercontent.com/u/43627780" width="100px;" alt="maximilianoide"/>
-      </a>
-      <br />
-      <a href="https://github.com/maximilianoide">Maximiliano Ide</a>
-    </td>
-    <td align="center">
       <a href="https://github.com/DiegoVeraSarricolea">
         <img src="https://avatars2.githubusercontent.com/u/26796998" width="100px;" alt="DiegoVeraSarricolea"/>
       </a>
       <br />
       <a href="https://github.com/DiegoVeraSarricolea">Diego Vera Sarricolea</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/maximilianoide">
+        <img src="https://avatars2.githubusercontent.com/u/43627780" width="100px;" alt="maximilianoide"/>
+      </a>
+      <br />
+      <a href="https://github.com/maximilianoide">Maximiliano Ide</a>
     </td>
   </tr>
 </table>
