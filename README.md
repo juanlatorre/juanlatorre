@@ -89,18 +89,18 @@ Twitter: [@unnamed_query](https://twitter.com/unnamed_query)
       <a href="https://github.com/sandov">Diego Sandoval</a>
     </td>
     <td align="center">
-      <a href="https://github.com/antilef">
-        <img src="https://avatars2.githubusercontent.com/u/28636087" width="100px;" alt="antilef"/>
-      </a>
-      <br />
-      <a href="https://github.com/antilef">Francisco Antilef</a>
-    </td>
-    <td align="center">
       <a href="https://github.com/moraesc">
         <img src="https://avatars2.githubusercontent.com/u/21322192" width="100px;" alt="moraesc"/>
       </a>
       <br />
       <a href="https://github.com/moraesc">Camilla Moraes</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/antilef">
+        <img src="https://avatars2.githubusercontent.com/u/28636087" width="100px;" alt="antilef"/>
+      </a>
+      <br />
+      <a href="https://github.com/antilef">Francisco Antilef</a>
     </td>
     <td align="center">
       <a href="https://github.com/simaiden">
