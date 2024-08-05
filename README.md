@@ -17,11 +17,11 @@ Twitter: [@unnamed_query](https://twitter.com/unnamed_query)
       <a href="https://github.com/alantoa">Alan Toa</a>
     </td>
     <td align="center">
-      <a href="https://github.com/wittyBoffin">
-        <img src="https://avatars2.githubusercontent.com/u/99595213" width="100px;" alt="wittyBoffin"/>
+      <a href="https://github.com/wittyCodeX">
+        <img src="https://avatars2.githubusercontent.com/u/99595213" width="100px;" alt="wittyCodeX"/>
       </a>
       <br />
-      <a href="https://github.com/wittyBoffin">Boffin</a>
+      <a href="https://github.com/wittyCodeX">CodeX</a>
     </td>
     <td align="center">
       <a href="https://github.com/saihaj">
