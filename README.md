@@ -89,18 +89,18 @@ Twitter: [@unnamed_query](https://twitter.com/unnamed_query)
       <a href="https://github.com/sandov">Diego Sandoval</a>
     </td>
     <td align="center">
-      <a href="https://github.com/recmera">
-        <img src="https://avatars2.githubusercontent.com/u/23617398" width="100px;" alt="recmera"/>
-      </a>
-      <br />
-      <a href="https://github.com/recmera">Ricardo Coronado Mera</a>
-    </td>
-    <td align="center">
       <a href="https://github.com/moraesc">
         <img src="https://avatars2.githubusercontent.com/u/21322192" width="100px;" alt="moraesc"/>
       </a>
       <br />
       <a href="https://github.com/moraesc">Camilla Moraes</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/recmera">
+        <img src="https://avatars2.githubusercontent.com/u/23617398" width="100px;" alt="recmera"/>
+      </a>
+      <br />
+      <a href="https://github.com/recmera">Ricardo Coronado Mera</a>
     </td>
     <td align="center">
       <a href="https://github.com/antilef">
