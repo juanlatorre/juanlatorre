@@ -171,8 +171,7 @@ Twitter: [@unnamed_query](https://twitter.com/unnamed_query)
 <!--START_SECTION:waka-->
 
 ```txt
-TypeScript   1 hr 43 mins    🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩⬜⬜   92.33 %
-Prisma       8 mins          🟩🟩⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   07.67 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
