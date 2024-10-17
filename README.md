@@ -133,6 +133,13 @@ Twitter: [@unnamed_query](https://twitter.com/unnamed_query)
       <a href="https://github.com/bartcheers">Bart Proost</a>
     </td>
     <td align="center">
+      <a href="https://github.com/clunkylion">
+        <img src="https://avatars2.githubusercontent.com/u/57159858" width="100px;" alt="clunkylion"/>
+      </a>
+      <br />
+      <a href="https://github.com/clunkylion">José Cortés </a>
+    </td>
+    <td align="center">
       <a href="https://github.com/maximilianoide">
         <img src="https://avatars2.githubusercontent.com/u/43627780" width="100px;" alt="maximilianoide"/>
       </a>
@@ -145,13 +152,6 @@ Twitter: [@unnamed_query](https://twitter.com/unnamed_query)
       </a>
       <br />
       <a href="https://github.com/felipeisj">Felipe Salazar</a>
-    </td>
-    <td align="center">
-      <a href="https://github.com/clunkylion">
-        <img src="https://avatars2.githubusercontent.com/u/57159858" width="100px;" alt="clunkylion"/>
-      </a>
-      <br />
-      <a href="https://github.com/clunkylion">José Cortés </a>
     </td>
     <td align="center">
       <a href="https://github.com/DiegoVeraSarricolea">
