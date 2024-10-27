@@ -112,18 +112,18 @@ Twitter: [@unnamed_query](https://twitter.com/unnamed_query)
   </tr>
   <tr>
     <td align="center">
-      <a href="https://github.com/simaiden">
-        <img src="https://avatars2.githubusercontent.com/u/32749727" width="100px;" alt="simaiden"/>
-      </a>
-      <br />
-      <a href="https://github.com/simaiden">Simón Sepúlveda Osses</a>
-    </td>
-    <td align="center">
       <a href="https://github.com/themakunga">
         <img src="https://avatars2.githubusercontent.com/u/235083" width="100px;" alt="themakunga"/>
       </a>
       <br />
       <a href="https://github.com/themakunga">Nicolas Martinez</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/simaiden">
+        <img src="https://avatars2.githubusercontent.com/u/32749727" width="100px;" alt="simaiden"/>
+      </a>
+      <br />
+      <a href="https://github.com/simaiden">Simón Sepúlveda Osses</a>
     </td>
     <td align="center">
       <a href="https://github.com/bartcheers">
