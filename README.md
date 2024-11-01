@@ -82,6 +82,13 @@ Twitter: [@unnamed_query](https://twitter.com/unnamed_query)
       <a href="https://github.com/kezada94">Felipe Quezada</a>
     </td>
     <td align="center">
+      <a href="https://github.com/tminard">
+        <img src="https://avatars2.githubusercontent.com/u/1228250" width="100px;" alt="tminard"/>
+      </a>
+      <br />
+      <a href="https://github.com/tminard">Tyler Minard</a>
+    </td>
+    <td align="center">
       <a href="https://github.com/sandov">
         <img src="https://avatars2.githubusercontent.com/u/16181660" width="100px;" alt="sandov"/>
       </a>
@@ -102,6 +109,8 @@ Twitter: [@unnamed_query](https://twitter.com/unnamed_query)
       <br />
       <a href="https://github.com/recmera">Ricardo Coronado Mera</a>
     </td>
+  </tr>
+  <tr>
     <td align="center">
       <a href="https://github.com/antilef">
         <img src="https://avatars2.githubusercontent.com/u/28636087" width="100px;" alt="antilef"/>
@@ -109,8 +118,6 @@ Twitter: [@unnamed_query](https://twitter.com/unnamed_query)
       <br />
       <a href="https://github.com/antilef">Francisco Antilef</a>
     </td>
-  </tr>
-  <tr>
     <td align="center">
       <a href="https://github.com/themakunga">
         <img src="https://avatars2.githubusercontent.com/u/235083" width="100px;" alt="themakunga"/>
@@ -152,13 +159,6 @@ Twitter: [@unnamed_query](https://twitter.com/unnamed_query)
       </a>
       <br />
       <a href="https://github.com/felipeisj">Felipe Salazar</a>
-    </td>
-    <td align="center">
-      <a href="https://github.com/DiegoVeraSarricolea">
-        <img src="https://avatars2.githubusercontent.com/u/26796998" width="100px;" alt="DiegoVeraSarricolea"/>
-      </a>
-      <br />
-      <a href="https://github.com/DiegoVeraSarricolea">Diego Vera Sarricolea</a>
     </td>
   </tr>
 </table>
