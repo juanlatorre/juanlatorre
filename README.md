@@ -7,3 +7,5 @@
 📫 How to reach me: `juanlatorreharcha [@] gmail [dot] com`
 
 I'm also on 𝕏: [@unnamed_query](https://x.com/unnamed_query)
+
+https://juanlatorre.me
