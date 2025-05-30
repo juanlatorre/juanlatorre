@@ -8,4 +8,4 @@
 
 I'm also on 𝕏: [@unnamed_query](https://x.com/unnamed_query)
 
-https://juanlatorre.me
+[juanlatorre.me](https://juanlatorre.me)
