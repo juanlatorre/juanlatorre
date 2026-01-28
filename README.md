@@ -1,6 +1,6 @@
 ### Hello there <img src="https://emojis.slackmojis.com/emojis/images/1710967351/91329/hello-there.gif" width="30px">, I am Juan!
 
-🔭 I’m currently open to work remotely from Chile
+🔭 Head of IT at Constructora Harcha
 
 🧰 I use `TypeScript`, `React/Next.js/Vite`, `React Native`, `TailwindCSS`, `PostgreSQL/Prisma`, `Node.js` and `GraphQL/Pothos` among others.
 
